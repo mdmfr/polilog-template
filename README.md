@@ -1,4 +1,4 @@
-# polilog-template
+# polilog
 
 ## ログページ
 [polilog](polilog.md)
