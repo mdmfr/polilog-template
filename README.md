@@ -1,6 +1,7 @@
 # polilog-template
 
-[log page](log.md)
+## log page
+[polilog](polilog.md)
 
 ## rule
 - テンプレ利用者(以下、管理者)は、以下のルールを変更せず、そのままの状態で公開する。
